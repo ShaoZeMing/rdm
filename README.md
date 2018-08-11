@@ -1,11 +1,10 @@
 # rdm
 ## 基于redis-desktop-manager官方源码编译后的应用代码，适用于mac，最好用的redis可视化客户端。
 ## 版本：0.999(开发版本)
-[](./rdm.png)
+![Image](./rdm.png)
 ## 用法
-- git clone 代码
-- 下载包
-- 双击目录下的bin目录中的rdm 直接可以运行
+- git clone 代码或则 下载压缩包
+- 双击目录下的bin目录中的rdm直接运行即可
 
 
 ## 后续更新
